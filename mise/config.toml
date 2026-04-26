@@ -1,0 +1,6 @@
+[tools]
+java = "temurin-25"
+maven = "latest"
+node = "lts"
+"npm:typescript" = "latest"
+spring-boot = "latest"

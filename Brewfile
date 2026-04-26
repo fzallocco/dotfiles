@@ -5,6 +5,8 @@ brew "cmake"
 brew "fastfetch"
 # GNU compiler collection
 brew "gcc"
+# GitHub command-line tool
+brew "gh"
 # Distributed revision control system
 brew "git"
 # Improved top (interactive process viewer)

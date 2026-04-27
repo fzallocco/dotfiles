@@ -1,5 +1,6 @@
 [tools]
 java = "temurin-25"
+"llama.cpp" = { version = "latest", version_prefix = "b" }
 maven = "latest"
 node = "lts"
 "npm:typescript" = "latest"

@@ -5,20 +5,26 @@ brew "cmake"
 brew "fastfetch"
 # GNU compiler collection
 brew "gcc"
+# LLVM's OpenMP runtime library
+brew "libomp"
 # GitHub command-line tool
 brew "gh"
 # Distributed revision control system
 brew "git"
 # Improved top (interactive process viewer)
 brew "htop"
-# LLVM's OpenMP runtime library
-brew "libomp"
+# LLM inference in C/C++
+brew "llama.cpp"
+# Interpreted, interactive, object-oriented programming language
+brew "python@3.14"
 # Next-gen compiler infrastructure
 brew "llvm"
 # Utility for directing compilation
 brew "make"
 # Mac App Store command-line interface
 brew "mas"
+# Run LLMs with MLX
+brew "mlx-lm"
 # Fast, highly customisable system info script
 brew "neofetch"
 # Ambitious Vim-fork focused on extensibility and agility
@@ -43,6 +49,8 @@ cask "postman"
 cask "spotify"
 # Open-source code editor
 cask "visual-studio-code"
+# Original Xbox Emulator
+cask "xemu"
 # Video communication and virtual meeting platform
 cask "zoom"
 mas "Keynote", id: 409183694

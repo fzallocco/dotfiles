@@ -61,6 +61,8 @@ brew "postgresql@18", link: true
 brew "python@3.11"
 # Search tool like grep and The Silver Searcher
 brew "ripgrep"
+# Rust toolchain installer
+brew "rustup"
 # Feature-rich command-line audio/video downloader
 brew "yt-dlp"
 # Pluggable terminal workspace, with terminal multiplexer as the base feature
@@ -86,12 +88,14 @@ cask "spotify"
 cask "unity-hub"
 # Open-source code editor
 cask "visual-studio-code"
+# Multimedia player
+cask "vlc"
 # Original Xbox Emulator
 cask "xemu"
 # Video communication and virtual meeting platform
 cask "zoom"
-mas "Keynote", id: 409183694
-mas "Numbers", id: 409203825
-mas "Pages", id: 409201541
-mas "Xcode", id: 497799835
+mas "Alien: Isolation™ - The Collection", id: 973568088
+mas "Microsoft Excel", id: 462058435
+mas "Microsoft PowerPoint", id: 462062816
+mas "Microsoft Word", id: 462054704
 npm "corepack"

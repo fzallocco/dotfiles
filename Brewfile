@@ -61,6 +61,8 @@ brew "postgresql@18", link: true
 brew "python@3.11"
 # Search tool like grep and The Silver Searcher
 brew "ripgrep"
+# Safe, concurrent, practical language
+brew "rust"
 # Rust toolchain installer
 brew "rustup"
 # Feature-rich command-line audio/video downloader
